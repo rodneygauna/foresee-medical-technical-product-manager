@@ -1,11 +1,16 @@
 **Job Title: Technical Product Manager**
+
 **Location:** Remote, Headquarters in San Diego, CA
+
 **Company:** ForeSee Medical
 
+
 **About Us**
+
 ForeSee Medical is a leading healthcare software company dedicated to helping organizations perfect their RAF scores and improve HCC coding. We seek a highly motivated and experienced Technical Product Manager to join our dynamic team. In this role, you will have the opportunity to shape and drive the strategy for our extraordinary data platform services, ensuring they meet the evolving needs of our users. If you're passionate about healthcare IT and eager to make a significant impact, we want to hear from you.
 
 **Responsibilities**
+
 As a Technical Product Manager at ForeSee Medical, you will:
 
 + **Lead Strategy and Roadmap:** Develop and lead the strategy and roadmap for our data platform services, ensuring they align with our business goals and user needs.
@@ -19,6 +24,7 @@ Opportunity Prioritization: Establish a prioritized inventory of opportunities, 
 + **Change Management:** Champion the rollout/adoption and change management process to ensure a smooth transition for our end-user community.
 
 **Required Qualifications**
+
 To succeed in this role, you must have:
 
 + Experience in an Agile environment, including leading Agile sprint teams and using Agile collaboration tools (e.g., Jira, Confluence).
@@ -35,6 +41,7 @@ To succeed in this role, you must have:
 + Creative, visionary, and strong critical thinking skills.
 
 **Preferred Qualifications**
+
 Preferred qualifications that would set you apart:
 
 + Familiarity with CMS interoperability regulations.
@@ -50,5 +57,6 @@ Preferred qualifications that would set you apart:
 + Agile certifications such as Certified Product Owner, SAFe Product Owner, and Product Manager are a plus.
 
 **How to Apply**
+
 Suppose you are excited about the opportunity to drive innovation in healthcare IT and meet the above qualifications. In that case, we encourage you to apply by sending your resume and a cover letter detailing your relevant experience and qualifications to info@foreseemed.com.
 ForeSee Medical is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.
