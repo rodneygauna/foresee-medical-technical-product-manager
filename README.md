@@ -5,9 +5,11 @@
 **Company:** ForeSee Medical
 
 
+
 **About Us**
 
 ForeSee Medical is a leading healthcare software company dedicated to helping organizations perfect their RAF scores and improve HCC coding. We seek a highly motivated and experienced Technical Product Manager to join our dynamic team. In this role, you will have the opportunity to shape and drive the strategy for our extraordinary data platform services, ensuring they meet the evolving needs of our users. If you're passionate about healthcare IT and eager to make a significant impact, we want to hear from you.
+
 
 **Responsibilities**
 
@@ -22,6 +24,7 @@ Opportunity Prioritization: Establish a prioritized inventory of opportunities, 
 + **Unified Experience:** Provide a unified experience framework to combine our services collection into a connected, easy-to-use application.
 + **Data Analysis:** Define, measure, and analyze feature adoption and its impact on the company's success.
 + **Change Management:** Champion the rollout/adoption and change management process to ensure a smooth transition for our end-user community.
+
 
 **Required Qualifications**
 
@@ -40,6 +43,7 @@ To succeed in this role, you must have:
 + Expertise with Agile tools such as JIRA, Confluence, Slack, etc.
 + Creative, visionary, and strong critical thinking skills.
 
+
 **Preferred Qualifications**
 
 Preferred qualifications that would set you apart:
@@ -55,6 +59,7 @@ Preferred qualifications that would set you apart:
 + Knowledge of process workflow and Business Process modeling.
 + Preferred certifications include PMI-ACP, CPM, CSM, and/or PSM.
 + Agile certifications such as Certified Product Owner, SAFe Product Owner, and Product Manager are a plus.
+
 
 **How to Apply**
 
